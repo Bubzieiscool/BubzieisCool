@@ -1,16 +1,22 @@
-## Hi there 👋
+# bubzie's portfolio
 
-<!--
-**Bubzieiscool/BubzieIsCool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hi! i'm bubzie, a 14 year old developer currently learning web development.  
+i mostly work on ui projects and have contributed to communities with over 3k members combined.  
 
-Here are some ideas to get you started:
+this is my personal portfolio website, kept simple because i like clean designs.  
+im currently not taking any projects or commissions, just focusing on learning and improving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## links
+
+- github: [https://github.com/BubzieIsCool](https://github.com/BubzieIsCool)  
+- discord: not adding randomly, please ask first  
+
+---
+
+## technologies used
+
+- html  
+- css  
+- javascript
