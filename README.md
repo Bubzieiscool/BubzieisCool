@@ -18,4 +18,4 @@ im currently not taking any projects or commissions, just focusing on learning a
 
 - html  
 - css  
-- javascript
+- c++
