@@ -7,9 +7,7 @@ im currently not taking any projects or commissions, just focusing on learning a
 
 ---
 
-## links
-
-- github: [https://github.com/BubzieIsCool](https://github.com/BubzieIsCool)  
+## socials
 - discord: not adding randomly, please ask first  
 
 ---
@@ -18,4 +16,5 @@ im currently not taking any projects or commissions, just focusing on learning a
 
 - html  
 - css  
-- c++
+- c++ (learning)
+- luau (learning)
